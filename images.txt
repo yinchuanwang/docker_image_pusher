@@ -1,3 +1,6 @@
 starrocks/allin1-ubuntu:3.1.17
+starrocks/fe-ubuntu:3.1.17
+starrocks/be-ubuntu:3.1.17
+
 #支持指定架构
 --platform=linux/x86_64 xiaoyaliu/alist
